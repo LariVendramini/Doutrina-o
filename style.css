@@ -1,0 +1,43 @@
+body {
+
+    color: black;
+    background: black;
+    margin: 0px;
+    font-family: "Matemasie", sans-serif;
+
+
+}
+
+header {
+
+    border-bottom: solid 2px yellow;
+    padding: 20px;
+    font-size: 40px;
+    color: yellow
+}
+
+section {
+    background: red;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.video1{
+    margin-right: 20px;
+
+}
+
+h1{
+    font-size: 20px;
+}
+
+p{
+    font-size: 10px;
+}
+
+header{
+    text-align: center;
+}
